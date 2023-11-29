@@ -6,6 +6,6 @@ This is the repository for the Homework 3 "To do List", using selectors to contr
 
 ### repository name: nascimento_r_HW3
 
-![To_do_List](/images/to_do.jpg)
+![To_do_List](/images/to_do_list.jpg)
 ###### To do image source
 https://www.pexels.com/pt-br/foto/livro-de-canecas-relogios-e-planejadores-em-superficie-de-madeira-marrom-2736499/
