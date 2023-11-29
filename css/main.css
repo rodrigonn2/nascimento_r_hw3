@@ -81,11 +81,11 @@ article:first-of-type{
 }
 
 #inprogress {
-    border: 2px solid rgb(0, 30, 255);
+    border: 2px solid #024f90;
 }
 
 #inprogress h2{
-     color: rgb(0, 30, 255);
+     color: #024f90;
      text-align: center;
 }
 
