@@ -174,7 +174,7 @@ input[type="checkbox"]{
 }
 
 input[type="checkbox"]:checked + span::after  {
-    content: '\1f680';
+    content: '\❤️';
     color: #ffffff;
     width: 10px;
     height: 10px;
