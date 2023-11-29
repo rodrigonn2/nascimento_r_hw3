@@ -172,6 +172,11 @@ input[type="checkbox"]:checked + span::after {
     float: right;
 }
 
+input[type="checkbox"]:checked + span {
+    color: #ffffff; 
+    background-color: #025a1b;
+}
+
 
 footer {
     color: #000000;
