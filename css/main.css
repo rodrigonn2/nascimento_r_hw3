@@ -183,7 +183,9 @@ input[type="checkbox"]:checked + span::after  {
     font-size: 20px;
     animation: fadeIn 0.7s;
     float: right;
+
 }
+
 
 
 
